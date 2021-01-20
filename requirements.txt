@@ -1,6 +1,6 @@
 click==6.6
 requests==2.13.0
-pandas==0.18.1
+pandas==1.2.1
 
 # fisher
 numpy==1.12.1
